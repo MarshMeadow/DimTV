@@ -1,4 +1,7 @@
 # DimTV
-Android App For Dimming your Phone or TV...
 
-# NOW SHOWS UP ON YOUR ANDROID TV!
+Android App For Dimming your Android Phone or TV...
+--
+Now Shows up on the Android TV UI!
+
+[Download Latest](https://github.com/MarshMeadow/DimTV/releases/download/1.0/1.0.apk)
