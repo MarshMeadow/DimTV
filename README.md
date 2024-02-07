@@ -7,6 +7,8 @@ Now Shows up on the Android TV UI!
 
 [Download Latest](https://github.com/MarshMeadow/DimTV/releases/download/1.0/1.0.apk)
 
+[Official Fdroid Link](https://f-droid.org/en/packages/giraffine.dimmer/) (NOT THE ANDROID TV MOD)
+
 ![image](https://github.com/MarshMeadow/DimTV/assets/88599122/1a16547c-4f0b-40e4-939a-535a69699444)
 
 Lower the brightness beyond the limit through a filter.
@@ -44,3 +46,5 @@ Features:
 * Support color filter.
 
 License: Apache License 2.0 Issue Tracker Source Code Build Metadata
+
+[Official Fdroid Link](https://f-droid.org/en/packages/giraffine.dimmer/)
